@@ -9,9 +9,13 @@ sites:
     check: "tcp-ping"
     url: 77.68.48.198
     port: 27015
-  - name: Minecraft Server (via domain)
+  - name: Minecraft Server (Domain resolution)
     check: "tcp-ping"
     url: play.lewisgill.com
+    port: 25565
+  - name: Minecraft Server (Direct)
+    check: "tcp-ping"
+    url: 88.208.226.170
     port: 25565
 
 status-website:
