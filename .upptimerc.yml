@@ -5,14 +5,14 @@ repo: uptime-tracker # The name of this repository
 sites:
   - name: lewisgill.com
     url: https://lewisgill.com
-  - name: LDDDS
+  - name: LDDDS (TF2)
     check: "tcp-ping"
     url: 77.68.48.198
     port: 27015
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Minecraft Server (via domain)
+    check: "tcp-ping"
+    url: play.lewisgill.com
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
