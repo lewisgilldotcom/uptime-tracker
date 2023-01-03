@@ -27,6 +27,7 @@ status-website:
   name: Server Status
   introTitle: "**Live Service Tracker**"
   introMessage: This page displays the live status of all services. Status is updated every 5 minutes.
+  theme: dark
   navbar:
     - title: Home
       href: https://lewisgill.com
