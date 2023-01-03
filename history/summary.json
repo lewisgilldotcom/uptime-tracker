@@ -40,19 +40,19 @@
     "url": "play.lewisgill.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-domain-resolution",
-    "status": "down",
-    "uptime": "23.83%",
-    "uptimeDay": "23.83%",
-    "uptimeWeek": "23.83%",
-    "uptimeMonth": "23.83%",
-    "uptimeYear": "23.83%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.25%",
+    "uptimeDay": "4.25%",
+    "uptimeWeek": "4.25%",
+    "uptimeMonth": "4.25%",
+    "uptimeYear": "4.25%",
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-01-03": 0
+      "2023-01-03": 4
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "88.208.226.170",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-direct",
-    "status": "down",
-    "uptime": "12.50%",
-    "uptimeDay": "12.50%",
-    "uptimeWeek": "12.50%",
-    "uptimeMonth": "12.50%",
-    "uptimeYear": "12.50%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.52%",
+    "uptimeDay": "2.52%",
+    "uptimeWeek": "2.52%",
+    "uptimeMonth": "2.52%",
+    "uptimeYear": "2.52%",
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-01-03": 0
+      "2023-01-03": 4
     }
   }
 ]
