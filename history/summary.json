@@ -45,7 +45,7 @@
     "url": "play.lewisgill.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-domain-resolution",
-    "status": "up",
+    "status": "down",
     "uptime": "94.29%",
     "uptimeDay": "69.63%",
     "uptimeWeek": "95.66%",
@@ -57,6 +57,7 @@
     "timeMonth": 276,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2023-02-14": 0,
       "2023-02-13": 438,
       "2023-02-05": 583,
       "2023-01-25": 16,
@@ -71,7 +72,7 @@
     "url": "88.208.226.170",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-direct",
-    "status": "up",
+    "status": "down",
     "uptime": "95.30%",
     "uptimeDay": "69.63%",
     "uptimeWeek": "95.66%",
@@ -83,6 +84,7 @@
     "timeMonth": 104,
     "timeYear": 106,
     "dailyMinutesDown": {
+      "2023-02-14": 0,
       "2023-02-13": 438,
       "2023-02-05": 583,
       "2023-01-08": 681,
