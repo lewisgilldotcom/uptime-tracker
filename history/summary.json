@@ -28,11 +28,11 @@
     "url": "77.68.48.198",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 123,
@@ -40,7 +40,7 @@
     "timeMonth": 109,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-07-09": 7
+      "2023-07-09": 0
     }
   },
   {
