@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 526,
-    "timeDay": 408,
-    "timeWeek": 423,
-    "timeMonth": 436,
+    "time": 525,
+    "timeDay": 309,
+    "timeWeek": 419,
+    "timeMonth": 428,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-03-10": 35,
-      "2023-02-02": 22
+      "2023-03-10": 35
     }
   },
   {
@@ -26,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -34,7 +33,7 @@
     "time": 108,
     "timeDay": 83,
     "timeWeek": 94,
-    "timeMonth": 106,
+    "timeMonth": 104,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-12-16": 100,
@@ -62,8 +61,8 @@
     "time": 185,
     "timeDay": 83,
     "timeWeek": 94,
-    "timeMonth": 105,
-    "timeYear": 176,
+    "timeMonth": 103,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2023-06-14": 17,
       "2023-06-09": 16,
@@ -80,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-direct",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -88,7 +87,7 @@
     "time": 108,
     "timeDay": 83,
     "timeWeek": 94,
-    "timeMonth": 105,
+    "timeMonth": 103,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-12-16": 100,
