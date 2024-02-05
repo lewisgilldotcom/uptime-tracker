@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 525,
-    "timeDay": 542,
-    "timeWeek": 436,
+    "timeDay": 580,
+    "timeWeek": 446,
     "timeMonth": 435,
     "timeYear": 473,
     "dailyMinutesDown": {
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.30%",
     "time": 108,
     "timeDay": 149,
-    "timeWeek": 101,
+    "timeWeek": 104,
     "timeMonth": 106,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -59,8 +59,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 185,
-    "timeDay": 149,
-    "timeWeek": 101,
+    "timeDay": 148,
+    "timeWeek": 103,
     "timeMonth": 105,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -69,8 +69,7 @@
       "2023-05-17": 741,
       "2023-02-15": 1226,
       "2023-02-14": 1358,
-      "2023-02-13": 438,
-      "2023-02-05": 583
+      "2023-02-13": 438
     }
   },
   {
@@ -85,8 +84,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.61%",
     "time": 108,
-    "timeDay": 149,
-    "timeWeek": 101,
+    "timeDay": 148,
+    "timeWeek": 103,
     "timeMonth": 105,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -98,8 +97,7 @@
       "2023-05-17": 741,
       "2023-02-15": 1226,
       "2023-02-14": 1358,
-      "2023-02-13": 438,
-      "2023-02-05": 583
+      "2023-02-13": 438
     }
   }
 ]
