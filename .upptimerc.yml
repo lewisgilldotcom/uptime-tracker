@@ -17,6 +17,8 @@ sites:
     check: "tcp-ping"
     url: 88.208.226.170
     port: 25565
+  - name: Downtime Test
+    url: https://example.koj.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
