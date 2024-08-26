@@ -17,6 +17,10 @@ sites:
     check: "tcp-ping"
     url: 88.208.226.170
     port: 25565
+  - name: Vintage Story
+    check: "tcp-ping"
+    url: play.lewisgill.com
+    port: 42420
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
