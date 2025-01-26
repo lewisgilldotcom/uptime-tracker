@@ -33,18 +33,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
     "status": "down",
-    "uptime": "78.77%",
+    "uptime": "78.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.88%",
+    "uptimeYear": "57.67%",
     "time": 107,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-01-26": 74,
+      "2025-01-26": 1189,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -273,9 +273,9 @@
     "url": "play.lewisgill.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vintage-story",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -285,6 +285,7 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2025-01-26": 0,
       "2024-10-16": 410
     }
   }
