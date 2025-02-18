@@ -45,7 +45,7 @@
     "timeMonth": 0,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-02-18": 1245,
+      "2025-02-18": 1251,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -307,19 +307,19 @@
     "url": "play.lewisgill.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-domain-resolution",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 130,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-02-18": 7
+      "2025-02-18": 0
     }
   },
   {
@@ -327,19 +327,19 @@
     "url": "88.208.226.170",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-direct",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 130,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-02-18": 7
+      "2025-02-18": 0
     }
   },
   {
@@ -351,7 +351,7 @@
     "uptime": "95.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.83%",
+    "uptimeMonth": "75.81%",
     "uptimeYear": "95.67%",
     "time": 109,
     "timeDay": 0,
@@ -359,7 +359,7 @@
     "timeMonth": 106,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-02-18": 1245,
+      "2025-02-18": 1252,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
