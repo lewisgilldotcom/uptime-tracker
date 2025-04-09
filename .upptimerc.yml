@@ -30,9 +30,7 @@ sites:
     url: play.lewisgill.com
     port: 42420
   - name: Jellyfin
-    check: "tcp-ping"
-    url: jellyfin.lewisgill.com
-    port: 80
+    url: https://jellyfin.lewisgill.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
