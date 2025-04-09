@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
     "status": "down",
-    "uptime": "71.74%",
+    "uptime": "71.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-04-09": 1253,
+      "2025-04-09": 1276,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -414,7 +414,7 @@
     "uptime": "85.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.08%",
+    "uptimeMonth": "80.13%",
     "uptimeYear": "85.55%",
     "time": 108,
     "timeDay": 102,
@@ -470,17 +470,19 @@
     "url": "https://jellyfin.lewisgill.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.lewisgill.com.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 8000,
-    "timeDay": 8000,
-    "timeWeek": 8000,
-    "timeMonth": 8000,
-    "timeYear": 8000,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 6589,
+    "timeDay": 6589,
+    "timeWeek": 6589,
+    "timeMonth": 6589,
+    "timeYear": 6589,
+    "dailyMinutesDown": {
+      "2025-04-09": 0
+    }
   }
 ]
