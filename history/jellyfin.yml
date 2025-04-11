@@ -1,7 +1,7 @@
 url: https://jellyfin.lewisgill.com
-status: down
-code: 403
-responseTime: 3636
-lastUpdated: 2025-04-11T17:29:48.521Z
+status: up
+code: 200
+responseTime: 5431
+lastUpdated: 2025-04-11T23:21:12.158Z
 startTime: 2025-04-09T20:52:52.005Z
 generator: Upptime <https://github.com/upptime/upptime>
