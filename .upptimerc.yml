@@ -29,8 +29,8 @@ sites:
     check: "tcp-ping"
     url: play.lewisgill.com
     port: 42420
-  - name: Jellyfin
-    url: https://jellyfin.lewisgill.com
+ # - name: Jellyfin
+ #   url: https://jellyfin.lewisgill.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
