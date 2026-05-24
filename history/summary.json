@@ -11,15 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 593,
-    "timeDay": 540,
-    "timeWeek": 590,
-    "timeMonth": 566,
+    "timeDay": 424,
+    "timeWeek": 554,
+    "timeMonth": 563,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-02-14": 114,
-      "2026-01-06": 33,
+      "2025-11-18": 223,
       "2025-11-26": 19,
-      "2025-11-18": 223
+      "2026-01-06": 33,
+      "2026-02-14": 114
     }
   },
   {
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
     "status": "down",
-    "uptime": "48.03%",
+    "uptime": "47.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 171,
+      "2026-05-24": 210,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -402,8 +403,7 @@
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
-      "2025-05-25": 1440,
-      "2025-05-24": 1440
+      "2025-05-25": 1440
     }
   },
   {
@@ -416,15 +416,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.55%",
     "time": 113,
-    "timeDay": 97,
-    "timeWeek": 110,
-    "timeMonth": 124,
+    "timeDay": 96,
+    "timeWeek": 103,
+    "timeMonth": 122,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-05-25": 1133,
-      "2025-05-24": 1440
+      "2025-05-25": 1133
     }
   },
   {
@@ -433,19 +432,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-direct",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.55%",
     "time": 113,
     "timeDay": 95,
-    "timeWeek": 109,
-    "timeMonth": 123,
+    "timeWeek": 102,
+    "timeMonth": 121,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-25": 1133,
-      "2025-05-24": 1440
+      "2025-05-25": 1133
     }
   },
   {
@@ -454,18 +452,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-domain-resolution",
     "status": "down",
-    "uptime": "29.20%",
+    "uptime": "29.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.61%",
+    "uptimeYear": "10.33%",
     "time": 109,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2026-05-23": 171,
+      "2025-05-25": 47,
+      "2026-05-24": 210,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -792,8 +792,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
-      "2025-06-30": 160,
-      "2025-05-25": 47
+      "2025-06-30": 160
     }
   },
   {
@@ -802,18 +801,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-direct",
     "status": "down",
-    "uptime": "29.21%",
+    "uptime": "29.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.61%",
+    "uptimeYear": "10.33%",
     "time": 109,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2026-05-23": 171,
+      "2025-05-25": 47,
+      "2026-05-24": 210,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -1140,8 +1141,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
-      "2025-06-30": 160,
-      "2025-05-25": 47
+      "2025-06-30": 160
     }
   },
   {
@@ -1150,7 +1150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vintage-story",
     "status": "down",
-    "uptime": "37.20%",
+    "uptime": "37.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1161,7 +1161,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 171,
+      "2026-05-24": 210,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -1524,8 +1525,7 @@
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
-      "2025-05-25": 1440,
-      "2025-05-24": 1440
+      "2025-05-25": 1440
     }
   }
 ]
