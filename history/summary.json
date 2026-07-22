@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lewisgill.com.ico",
     "slug": "lewisgill-com",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 587,
-    "timeDay": 606,
-    "timeWeek": 538,
-    "timeMonth": 543,
-    "timeYear": 605,
+    "timeDay": 379,
+    "timeWeek": 501,
+    "timeMonth": 537,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2025-11-18": 223,
       "2025-11-26": 19,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
     "status": "down",
-    "uptime": "45.84%",
+    "uptime": "45.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 152,
+      "2026-07-22": 151,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -402,8 +403,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -419,7 +419,7 @@
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 97,
-    "timeWeek": 111,
+    "timeWeek": 105,
     "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -436,8 +436,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 98,
-    "timeWeek": 111,
+    "timeDay": 95,
+    "timeWeek": 104,
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -448,7 +448,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-domain-resolution",
     "status": "down",
-    "uptime": "25.91%",
+    "uptime": "25.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -459,7 +459,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 152,
+      "2026-07-22": 151,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -822,8 +823,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -832,7 +832,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-direct",
     "status": "down",
-    "uptime": "25.91%",
+    "uptime": "25.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -843,7 +843,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 152,
+      "2026-07-22": 151,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1206,8 +1207,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -1216,7 +1216,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vintage-story",
     "status": "down",
-    "uptime": "34.04%",
+    "uptime": "33.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1227,7 +1227,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 152,
+      "2026-07-22": 151,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1590,8 +1591,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   }
 ]
