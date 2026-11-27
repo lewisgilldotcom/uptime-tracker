@@ -11,10 +11,10 @@
     "uptimeMonth": "96.41%",
     "uptimeYear": "99.39%",
     "time": 637,
-    "timeDay": 325,
-    "timeWeek": 535,
-    "timeMonth": 1100,
-    "timeYear": 658,
+    "timeDay": 641,
+    "timeWeek": 542,
+    "timeMonth": 1104,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2026-01-06": 33,
       "2026-02-14": 114,
@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lddds-tf-2",
     "status": "down",
-    "uptime": "41.71%",
+    "uptime": "41.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -41,7 +41,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 415,
+      "2026-11-27": 408,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -404,8 +405,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -420,9 +420,9 @@
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.89%",
     "time": 116,
-    "timeDay": 76,
+    "timeDay": 143,
     "timeWeek": 113,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-10-19": 210,
@@ -442,9 +442,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 116,
-    "timeDay": 75,
+    "timeDay": 135,
     "timeWeek": 113,
-    "timeMonth": 116,
+    "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-10-19": 209
@@ -456,7 +456,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-domain-resolution",
     "status": "down",
-    "uptime": "20.81%",
+    "uptime": "20.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -467,7 +467,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 416,
+      "2026-11-27": 408,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -830,8 +831,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -840,7 +840,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "peasantry-pleasantries-direct",
     "status": "down",
-    "uptime": "20.82%",
+    "uptime": "20.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -851,7 +851,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 416,
+      "2026-11-27": 408,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -1214,8 +1215,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -1224,7 +1224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vintage-story",
     "status": "down",
-    "uptime": "28.73%",
+    "uptime": "28.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1235,7 +1235,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 416,
+      "2026-11-27": 408,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -1598,8 +1599,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   }
 ]
